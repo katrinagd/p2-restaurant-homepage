@@ -1,4 +1,4 @@
-![picture alt](http://www.redacademy.com/drive/themes/redacademy/assets/svg/red.svg "RED Academy")
+![picture alt](http://www.redacademy.com/drive/themes/redacademy/assets/svg/red-new.svg "RED Academy")
 
 # Project 2 - Restaurant Homepage
 
