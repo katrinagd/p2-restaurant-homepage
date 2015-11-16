@@ -16,7 +16,7 @@ One-page, responsive website for Restaurant client - 100 Mile Resto Bar
 
 _Use the HTML5 doctype and semantic HTML5 mark-up_
 
-_Incorporate an image slider using a jQuery plugin (bxSlider)_
+_Incorporate an image slider using a jQuery plugin ( [bxSlider](https://github.com/stevenwanderski/bxslider-4))_
 
 _Incorporate “smooth scrolling” into the menu that navigates to specific points in the page_
 
