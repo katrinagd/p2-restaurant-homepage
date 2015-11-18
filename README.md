@@ -4,11 +4,11 @@
 
 One-page, responsive website for Restaurant client - 100 Mile Resto Bar
 
-Deployed version of the project ( [(as a GitHub page)](http://katrinagd.github.io/p2-restaurant-homepage/))
+Deployed version of the project [(as a GitHub page)](http://katrinagd.github.io/p2-restaurant-homepage/)
 
 * Goals:
-** Be responsively designed using a mobile-first approach
-** Be optimized for 3 screen sizes: mobile, min-width: 768px, and min-width: 1280px
+ * Be responsively designed using a mobile-first approach
+ * Be optimized for 3 screen sizes: mobile, min-width: 768px, and min-width: 1280px
 
           
 
