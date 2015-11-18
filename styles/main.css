@@ -277,7 +277,11 @@ padding: 0;
 /*form start*/
 
 .form-bg {
-   background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),
+        background:    -moz-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),
+               url('../images/tables.jpg') no-repeat center center #483118;
+               background: -webkit-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),
+               url('../images/tables.jpg') no-repeat center center #483118;
+               background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5)),
                url('../images/tables.jpg') no-repeat center center #483118;
    text-align: center;
    background-size: cover;
@@ -549,6 +553,9 @@ top: 5px;
    }
 
 .form{ 
+    background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5));
+    background: -moz-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5));
+    background: -webkit-linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5));
     background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,0.5));
     background-position: 70% 50%;
     max-width: 1000px; 
